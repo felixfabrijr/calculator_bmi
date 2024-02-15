@@ -16,11 +16,8 @@ This is a simple BMI (Body Mass Index) calculator web application built using HT
 4. Enter your height in meters and weight in kilograms.
 5. Click on the "Calculate" button to see your BMI classification.
 
-## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
 
-![Screenshot 2](screenshots/screenshot2.png)
 
 ## Technologies Used
 
